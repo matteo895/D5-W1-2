@@ -1,0 +1,157 @@
+body {
+  width: 100%;
+  text-align: center;
+  font-family: open sans;
+  color: 393d41;
+  font: 1.2rem;
+  line-height: 1.5;
+}
+
+#header {
+  background-color: black;
+  padding: 2rem;
+  text-align: start;
+}
+
+#header img {
+  width: 150px;
+}
+
+#menù {
+  background-image: url(banner.jpg);
+  background-size: cover;
+  overflow: hidden;
+  padding: 5rem;
+}
+
+#text-menù {
+  padding: 5rem;
+  width: 50%;
+  margin: auto;
+  font-size: 1.1rem;
+}
+
+#text-menù h1 {
+  color: #25a2c3;
+  font-size: 2rem;
+  font-family: montserrat, sans-serif;
+  font-weight: bold;
+}
+
+#type {
+  background-color: rgba(255, 60, 1, 0.833);
+  color: white;
+  border-radius: 0.3rem;
+  margin: 1rem;
+}
+
+#central {
+  width: 300px;
+  display: inline-block;
+  margin: 5rem;
+  vertical-align: middle;
+}
+
+#central img {
+  width: 100%;
+  border-radius: 15rem;
+}
+
+#text {
+  width: 370px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#hello {
+  width: 100%;
+  text-align: start;
+  line-height: 1.5rem;
+}
+
+#hello p {
+  margin-bottom: 1rem;
+}
+
+.central-text {
+  color: #25a2c3;
+  font-family: montserrat, sans-serif;
+  font-weight: bold;
+}
+
+#section-5 {
+  background-color: #e22d0e;
+  padding: 4rem;
+  color: white;
+  font-family: montserrat, sans-serif;
+  font-weight: bold;
+}
+
+#section-5 h2 {
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+#section-5 p {
+  font-style: italic;
+  opacity: 0.5;
+}
+
+.section-6 img {
+  max-width: 100%;
+}
+
+.section-border {
+  width: 300px;
+  margin: 5rem 1rem;
+  border: 1px solid #dee1e3;
+  border-radius: 0.5rem;
+  display: inline-block;
+}
+
+#final {
+  background-color: #25a2c3;
+  padding: 1rem;
+  color: white;
+  margin: auto;
+}
+
+#final-start {
+  margin: auto;
+  display: inline-block;
+  text-align: start;
+}
+
+#final h2 {
+  font-size: 2rem;
+  margin: 1rem;
+  font-weight: bold;
+}
+
+.final-a a {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  color: #c8e7f0;
+}
+
+#final-text {
+  text-decoration: none;
+}
+
+#linar {
+  background-color: white;
+  border-radius: 1rem;
+  height: 1px;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+#copyright {
+  color: #c8e7f0;
+  margin-bottom: 2rem;
+  margin: 1rem;
+}
+
+#copyright a {
+  color: #c8e7f0;
+}
