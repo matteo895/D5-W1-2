@@ -99,14 +99,19 @@ body {
 
 .section-6 img {
   max-width: 100%;
+  height: 200px;
 }
 
-.section-border {
+.section-6 {
   width: 300px;
+  display: inline-block;
   margin: 5rem 1rem;
   border: 1px solid #dee1e3;
   border-radius: 0.5rem;
-  display: inline-block;
+}
+
+.section-border {
+  width: 100%;
 }
 
 #final {
